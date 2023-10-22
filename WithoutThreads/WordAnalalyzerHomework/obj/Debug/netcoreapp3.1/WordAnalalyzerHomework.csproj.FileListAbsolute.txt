@@ -1,0 +1,14 @@
+/Users/dimitardjurov/Documents/C# projects/WordAnalalyzerHomework/WordAnalalyzerHomework/bin/Debug/netcoreapp3.1/WordAnalalyzerHomework
+/Users/dimitardjurov/Documents/C# projects/WordAnalalyzerHomework/WordAnalalyzerHomework/bin/Debug/netcoreapp3.1/WordAnalalyzerHomework.deps.json
+/Users/dimitardjurov/Documents/C# projects/WordAnalalyzerHomework/WordAnalalyzerHomework/bin/Debug/netcoreapp3.1/WordAnalalyzerHomework.runtimeconfig.json
+/Users/dimitardjurov/Documents/C# projects/WordAnalalyzerHomework/WordAnalalyzerHomework/bin/Debug/netcoreapp3.1/WordAnalalyzerHomework.runtimeconfig.dev.json
+/Users/dimitardjurov/Documents/C# projects/WordAnalalyzerHomework/WordAnalalyzerHomework/bin/Debug/netcoreapp3.1/WordAnalalyzerHomework.dll
+/Users/dimitardjurov/Documents/C# projects/WordAnalalyzerHomework/WordAnalalyzerHomework/bin/Debug/netcoreapp3.1/WordAnalalyzerHomework.pdb
+/Users/dimitardjurov/Documents/C# projects/WordAnalalyzerHomework/WordAnalalyzerHomework/obj/Debug/netcoreapp3.1/WordAnalalyzerHomework.csproj.AssemblyReference.cache
+/Users/dimitardjurov/Documents/C# projects/WordAnalalyzerHomework/WordAnalalyzerHomework/obj/Debug/netcoreapp3.1/WordAnalalyzerHomework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimitardjurov/Documents/C# projects/WordAnalalyzerHomework/WordAnalalyzerHomework/obj/Debug/netcoreapp3.1/WordAnalalyzerHomework.AssemblyInfoInputs.cache
+/Users/dimitardjurov/Documents/C# projects/WordAnalalyzerHomework/WordAnalalyzerHomework/obj/Debug/netcoreapp3.1/WordAnalalyzerHomework.AssemblyInfo.cs
+/Users/dimitardjurov/Documents/C# projects/WordAnalalyzerHomework/WordAnalalyzerHomework/obj/Debug/netcoreapp3.1/WordAnalalyzerHomework.csproj.CoreCompileInputs.cache
+/Users/dimitardjurov/Documents/C# projects/WordAnalalyzerHomework/WordAnalalyzerHomework/obj/Debug/netcoreapp3.1/WordAnalalyzerHomework.dll
+/Users/dimitardjurov/Documents/C# projects/WordAnalalyzerHomework/WordAnalalyzerHomework/obj/Debug/netcoreapp3.1/WordAnalalyzerHomework.pdb
+/Users/dimitardjurov/Documents/C# projects/WordAnalalyzerHomework/WordAnalalyzerHomework/obj/Debug/netcoreapp3.1/WordAnalalyzerHomework.genruntimeconfig.cache
