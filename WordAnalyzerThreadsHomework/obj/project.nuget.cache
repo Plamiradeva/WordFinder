@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5KoDQMptPA43n4b2Ej29WGfpboVe2G6LAFEZeTmho7/CMo1YPhpGmNIrls04NEFPIFV64yqz1SPFwoaYGS+dA==",
+  "success": true,
+  "projectFilePath": "/Users/dimitardjurov/Documents/C# projects/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework/WordAnalyzerThreadsHomework.csproj",
+  "expectedPackageFiles": [
+    "/Users/dimitardjurov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/dimitardjurov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
+    "/Users/dimitardjurov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
